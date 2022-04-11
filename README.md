@@ -1,5 +1,5 @@
 # Algorithmic-ToolBox
-This repository contains all solutions for the course [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) offered on Coursera. The assignment solutions are in Python3.
+This repository contains all solutions and the resources for the course [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) offered on Coursera. The assignment solutions are in CPP and Java.
 
 **Disclaimer:** The below solutions are **for reference only**. Please design and implement your own algorithms to pass the course.
 
